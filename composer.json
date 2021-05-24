@@ -1,0 +1,14 @@
+{
+    "name": "pixelgradelt-retailer/empty",
+    "description": "Just an empty package for PixelgradeLT Retailer",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Vlad Olaru",
+            "email": "vlad@pixelgrade.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
